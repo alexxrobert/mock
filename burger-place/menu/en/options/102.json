@@ -1,22 +1,22 @@
 {
   "options": [
     {
-      "id": 105,
+      "id": 10201,
       "name": "No ketchup",
       "price": 0
     },
     {
-      "id": 106,
+      "id": 10202,
       "name": "Minimum ketchup",
       "price": 0
     },
     {
-      "id": 107,
+      "id": 10203,
       "name": "Normal ketchup",
       "price": 0
     },
     {
-      "id": 108,
+      "id": 10204,
       "name": "Maximum ketchup",
       "price": 0
     }
