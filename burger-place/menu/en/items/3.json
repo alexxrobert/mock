@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 301,
+      "name": "Green juice",
+      "imageUrl": "/livedemo/img/items/juices/green-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 302,
+      "name": "Orange juice",
+      "imageUrl": "/livedemo/img/items/juices/orange-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 303,
+      "name": "Fruit cocktail",
+      "imageUrl": "/livedemo/img/items/juices/fruit-cocktail.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 304,
+      "name": "Plum juice",
+      "imageUrl": "/livedemo/img/items/juices/plum-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 305,
+      "name": "Strawberry juice",
+      "imageUrl": "/livedemo/img/items/juices/strawberry-juice.jpg",
+      "price": 5.00
+    },
+    {
+      "id": 306,
+      "name": "Kiwi juice",
+      "imageUrl": "/livedemo/img/items/juices/kiwi-juice.jpg",
+      "price": 4.99
+    },
+    {
+      "id": 307,
+      "name": "Passion fruit juice",
+      "imageUrl": "/livedemo/img/items/juices/passion-fruit-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 308,
+      "name": "Lemonade",
+      "imageUrl": "/livedemo/img/items/juices/lemonade.jpg",
+      "price": 2.99
+    },
+    {
+      "id": 309,
+      "name": "Carrot juice",
+      "imageUrl": "/livedemo/img/items/juices/carrot-juice.jpg",
+      "price": 2.25
+    }
+  ]
+}

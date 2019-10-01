@@ -1,0 +1,60 @@
+{
+  "optionals": [
+    {
+      "id": 301,
+      "title": "How much sugar do you like?",
+      "multichoice": false,
+      "required": true,
+      "options": [
+        {
+          "id": 301,
+          "name": "No sugar",
+          "price": 0
+        },
+        {
+          "id": 302,
+          "name": "Minimum sugar",
+          "price": 0
+        },
+        {
+          "id": 303,
+          "name": "Normal sugar",
+          "price": 0
+        },
+        {
+          "id": 304,
+          "name": "Maximum sugar",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "title": "Would you like to add ice?",
+      "multichoice": false,
+      "required": true,
+      "options": [
+        {
+          "id": 305,
+          "name": "No ice",
+          "price": 0
+        },
+        {
+          "id": 306,
+          "name": "Minimum ice",
+          "price": 0
+        },
+        {
+          "id": 307,
+          "name": "Normal ice",
+          "price": 0
+        },
+        {
+          "id": 308,
+          "name": "Maximum ice",
+          "price": 0
+        }
+      ]
+    }
+  ]
+}

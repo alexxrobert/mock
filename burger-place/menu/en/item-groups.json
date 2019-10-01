@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "imageUrl": "/livedemo/img/categories/hamburgers.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dessert",
+      "imageUrl": "/livedemo/img/categories/desserts.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Juice",
+      "imageUrl": "/livedemo/img/categories/juices.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 301,
+      "name": "Suco verde",
+      "imageUrl": "/livedemo/img/items/juices/green-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 302,
+      "name": "Suco de laranja",
+      "imageUrl": "/livedemo/img/items/juices/orange-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 303,
+      "name": "Coquetel de frutas",
+      "imageUrl": "/livedemo/img/items/juices/fruit-cocktail.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 304,
+      "name": "Suco de ameixa",
+      "imageUrl": "/livedemo/img/items/juices/plum-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 305,
+      "name": "Suco de morango",
+      "imageUrl": "/livedemo/img/items/juices/strawberry-juice.jpg",
+      "price": 5.00
+    },
+    {
+      "id": 306,
+      "name": "Suco de quiuí",
+      "imageUrl": "/livedemo/img/items/juices/kiwi-juice.jpg",
+      "price": 4.99
+    },
+    {
+      "id": 307,
+      "name": "Suco de maracujá",
+      "imageUrl": "/livedemo/img/items/juices/passion-fruit-juice.jpg",
+      "price": 4.50
+    },
+    {
+      "id": 308,
+      "name": "Limonada",
+      "imageUrl": "/livedemo/img/items/juices/lemonade.jpg",
+      "price": 2.99
+    },
+    {
+      "id": 309,
+      "name": "Suco de cenoura",
+      "imageUrl": "/livedemo/img/items/juices/carrot-juice.jpg",
+      "price": 2.25
+    }
+  ]
+}
