@@ -1,0 +1,24 @@
+{
+  "options": [
+    {
+      "id": 301,
+      "name": "Sem açúcar",
+      "price": 0
+    },
+    {
+      "id": 302,
+      "name": "Pouco açúcar",
+      "price": 0
+    },
+    {
+      "id": 303,
+      "name": "Médio açúcar",
+      "price": 0
+    },
+    {
+      "id": 304,
+      "name": "Bastante açúcar",
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    {
+      "id": 105,
+      "name": "Sem ketchup",
+      "price": 0
+    },
+    {
+      "id": 106,
+      "name": "Pouco ketchup",
+      "price": 0
+    },
+    {
+      "id": 107,
+      "name": "Médio ketchup",
+      "price": 0
+    },
+    {
+      "id": 108,
+      "name": "Bastante ketchup",
+      "price": 0
+    }
+  ]
+}

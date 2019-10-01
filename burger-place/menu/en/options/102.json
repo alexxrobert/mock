@@ -1,0 +1,24 @@
+{
+  "options": [
+    {
+      "id": 105,
+      "name": "No ketchup",
+      "price": 0
+    },
+    {
+      "id": 106,
+      "name": "Minimum ketchup",
+      "price": 0
+    },
+    {
+      "id": 107,
+      "name": "Normal ketchup",
+      "price": 0
+    },
+    {
+      "id": 108,
+      "name": "Maximum ketchup",
+      "price": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "options": [
+    {
+      "id": 101,
+      "name": "Extra bacon",
+      "price": 1.99
+    },
+    {
+      "id": 102,
+      "name": "Extra cheese",
+      "price": 1.25
+    },
+    {
+      "id": 103,
+      "name": "Double onion",
+      "price": 0.99
+    },
+    {
+      "id": 104,
+      "name": "Double pickles",
+      "price": 0.99
+    }
+  ]
+}

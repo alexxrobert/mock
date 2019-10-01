@@ -1,0 +1,22 @@
+{
+  "optionGroups": [
+    {
+      "id": 101,
+      "title": "Que tal adicionar mais sabor ao seu hambúrguer?",
+      "multichoice": true,
+      "required": false
+    },
+    {
+      "id": 102,
+      "title": "Quanto de ketchup você gosta?",
+      "multichoice": false,
+      "required": true
+    },
+    {
+      "id": 103,
+      "title": "Quanto de mostarda você gosta?",
+      "multichoice": false,
+      "required": true
+    }
+  ]
+}

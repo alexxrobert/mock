@@ -1,0 +1,16 @@
+{
+  "optionGroups": [
+    {
+      "id": 301,
+      "title": "Quanto de açúcar você gosta?",
+      "multichoice": false,
+      "required": true
+    },
+    {
+      "id": 302,
+      "title": "Gostaria de adicionar gelo?",
+      "multichoice": false,
+      "required": true
+    }
+  ]
+}
