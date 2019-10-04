@@ -1,0 +1,19 @@
+{
+  "options": [
+    {
+      "id": 10101,
+      "name": "Special salad",
+      "price": 10.99
+    },
+    {
+      "id": 10102,
+      "name": "Caramelized onion",
+      "price": 12.75
+    },
+    {
+      "id": 10103,
+      "name": "Barbecue sauce",
+      "price": 16.99
+    }
+  ]
+}
