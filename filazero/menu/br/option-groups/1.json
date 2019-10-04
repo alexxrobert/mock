@@ -1,0 +1,10 @@
+{
+  "optionGroups": [
+    {
+      "id": 101,
+      "title": "Que tal adicionar mais sabor?",
+      "multichoice": true,
+      "required": false
+    }
+  ]
+}

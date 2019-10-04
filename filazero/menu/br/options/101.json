@@ -1,0 +1,19 @@
+{
+  "options": [
+    {
+      "id": 10101,
+      "name": "Salada especial",
+      "price": 10.99
+    },
+    {
+      "id": 10102,
+      "name": "Cebola caramelizada",
+      "price": 12.75
+    },
+    {
+      "id": 10103,
+      "name": "Molho barbecue",
+      "price": 16.99
+    }
+  ]
+}
