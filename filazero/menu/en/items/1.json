@@ -9,6 +9,11 @@
       "id": 102,
       "name": "Cheese bacon",
       "price": 104.9
+    },
+    {
+      "id": 103,
+      "name": "Vegan",
+      "price": 49.9
     }
   ]
 }
