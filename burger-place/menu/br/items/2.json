@@ -3,31 +3,26 @@
     {
       "id": 201,
       "name": "Cupcake de chocolate",
-      "imageUrl": "/livedemo/img/items/desserts/chocolate-cupcake.jpg",
       "price": 14.25
     },
     {
       "id": 202,
       "name": "Bolo de morango",
-      "imageUrl": "/livedemo/img/items/desserts/strawberry-cake.jpg",
       "price": 13.50
     },
     {
       "id": 203,
       "name": "Petit gateau de banana",
-      "imageUrl": "/livedemo/img/items/desserts/banana-petit-gateau.jpg",
       "price": 14.99
     },
     {
       "id": 204,
       "name": "Torta de chocolate",
-      "imageUrl": "/livedemo/img/items/desserts/chocolate-pie.jpg",
       "price": 13.50
     },
     {
       "id": 205,
       "name": "Sorvete",
-      "imageUrl": "/livedemo/img/items/desserts/ice-cream.jpg",
       "price": 12.99
     }
   ]

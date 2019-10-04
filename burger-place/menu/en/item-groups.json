@@ -2,18 +2,15 @@
   "itemGroups": [
     {
       "id": 1,
-      "name": "Hamburger",
-      "imageUrl": "/livedemo/img/categories/hamburgers.jpg"
+      "name": "Hamburger"
     },
     {
       "id": 2,
-      "name": "Dessert",
-      "imageUrl": "/livedemo/img/categories/desserts.jpg"
+      "name": "Dessert"
     },
     {
       "id": 3,
-      "name": "Juice",
-      "imageUrl": "/livedemo/img/categories/juices.jpg"
+      "name": "Juice"
     }
   ]
 }

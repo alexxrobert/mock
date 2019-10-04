@@ -2,18 +2,15 @@
   "itemGroups": [
     {
       "id": 1,
-      "name": "Hambúrguer",
-      "imageUrl": "/livedemo/img/categories/hamburgers.jpg"
+      "name": "Hambúrguer"
     },
     {
       "id": 2,
-      "name": "Sobremesa",
-      "imageUrl": "/livedemo/img/categories/desserts.jpg"
+      "name": "Sobremesa"
     },
     {
       "id": 3,
-      "name": "Suco",
-      "imageUrl": "/livedemo/img/categories/juices.jpg"
+      "name": "Suco"
     }
   ]
 }
