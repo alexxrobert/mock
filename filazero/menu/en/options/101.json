@@ -3,17 +3,17 @@
     {
       "id": 10101,
       "name": "Special salad",
-      "price": 10.99
+      "price": 2.99
     },
     {
       "id": 10102,
       "name": "Caramelized onion",
-      "price": 12.75
+      "price": 3.15
     },
     {
       "id": 10103,
       "name": "Barbecue sauce",
-      "price": 16.99
+      "price": 4.25
     }
   ]
 }
